@@ -41,7 +41,7 @@ function App() {
         <div className='controls-container'>
           <h2>Controls</h2>
 
-          {/* <FileUploadInput />  */}
+          <FileUploadInput /> 
           <Stack
             className='stack'
             spacing={2}
